@@ -1,0 +1,167 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+div.Basic-Graphics-Frame {
+	border-color:#000000;
+	border-width:1px;
+	border-style:solid;
+}
+div.Basic-Text-Frame {
+	border-style:solid;
+}
+p.Basic-Paragraph {
+	color:#000000;
+	font-family:"Minion Pro", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.ParaOverride-1 {
+	text-align:right;
+}
+p.ParaOverride-2 {
+	text-align:justify;
+	text-align-last:center;
+}
+p.ParaOverride-3 {
+	text-align:center;
+}
+span.CharOverride-1 {
+	color:#ffffff;
+	font-size:18px;
+}
+span.CharOverride-2 {
+	font-family:"Bookman Old Style", serif;
+	font-size:11px;
+	font-style:normal;
+	font-weight:300;
+}
+span.CharOverride-3 {
+	color:#ffffff;
+	font-family:"Bookman Old Style", serif;
+	font-size:18px;
+	font-style:normal;
+	font-weight:300;
+}
+span.CharOverride-4 {
+	font-family:"Bookman Old Style", serif;
+	font-style:normal;
+	font-weight:600;
+}
+span.CharOverride-5 {
+	font-family:"Bookman Old Style", serif;
+	font-style:normal;
+	font-weight:300;
+}
+span.CharOverride-6 {
+	color:#7851a1;
+	font-family:"Bookman Old Style", serif;
+	font-style:normal;
+	font-weight:600;
+}
+span.CharOverride-7 {
+	color:#7851a1;
+	font-family:"Bookman Old Style", serif;
+	font-size:11px;
+	font-style:normal;
+	font-weight:600;
+}
+#_idContainer000 {
+	display:inline-block;
+	height:340px;
+	width:392px;
+}
+#_idContainer016 {
+	display:inline-block;
+	height:199px;
+	width:215px;
+}
+#_idContainer021, #_idContainer024, #_idContainer025 {
+	display:inline-block;
+	height:106px;
+	width:132px;
+}
+#_idContainer032 {
+	display:inline-block;
+	height:189px;
+	width:253px;
+}
+#_idContainer035 {
+	display:inline-block;
+	height:237px;
+	width:169px;
+}
+#_idContainer041 {
+	display:inline-block;
+	height:276px;
+	width:210px;
+}
+#_idContainer042 {
+	display:inline-block;
+	height:175px;
+	width:402px;
+}
+#_idContainer056 {
+	display:inline-block;
+	height:41px;
+	position:relative;
+	width:173px;
+}
+#_idContainer058, #_idContainer063 {
+	display:inline-block;
+	height:41px;
+	position:relative;
+	width:171px;
+}
+#_idContainer060 {
+	display:inline-block;
+	height:41px;
+	position:relative;
+	width:172px;
+}
+img._idGenObjectAttribute-1 {
+	height:100.00%;
+	min-width:100%;
+	width:100.00%;
+}
+div._idGenObjectStyleOverride-1 {
+	border-width:0px;
+}
+div._idGenObjectStyleOverride-2 {
+	background-color:#7751a1;
+	border-width:0px;
+}
+div._idGenObjectStyleOverride-3 {
+	background-color:#ed1c24;
+	border-width:0px;
+}
+div._idGenObjectStyleOverride-4 {
+	background-color:#65bc46;
+	border-width:0px;
+}
+div._idGenObjectStyleOverride-5 {
+	background-color:#000000;
+	border-width:0px;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+}
