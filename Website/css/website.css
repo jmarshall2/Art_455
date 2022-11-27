@@ -1,0 +1,80 @@
+html{
+    box-sizing: border-box;
+}
+*{box-sizing: inherit;}
+
+aside {
+    position: relative;
+    padding-left: 15px;
+    padding-right: 10px;
+    padding-bottom: 15px;
+    width: 40%;
+}
+
+#asidecontainer{width: 10%;}
+
+#container{
+    margin:  10px;
+}
+
+div{}
+    
+
+body{
+    margin: 0;
+    background-color: aqua;
+}
+
+iframe{
+    height: auto;
+    width: auto;
+    padding: auto;
+}#philpost{
+    height: 600px;
+    width: auto;
+    padding: 50px;
+}#p2p{
+    height: 400px;
+    width: 500px;
+    padding: 50px;
+}
+
+p{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+#asidecontainer{width: 10%;}
+
+main{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+img#logo{
+    width: 50px;
+    height: 50px;
+     
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img#p2p{
+    width: auto;
+    height: 500px;
+    padding: 50px;
+}
+
+
+
+
+footer{text-align: center;}
+
+
+
+

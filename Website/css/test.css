@@ -1,0 +1,9 @@
+div{
+    image-rendering: crisp-edges;
+}
+
+iframe{
+    height: 600px;
+    width: auto;
+    padding: 50px;
+}
